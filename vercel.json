@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd ket-travel && npm install && npm run build",
+  "outputDirectory": "ket-travel/.next",
+  "framework": "nextjs",
+  "installCommand": "cd ket-travel && npm install"
+}
